@@ -9,12 +9,12 @@
 
 | No | Nama Anggota | ID Peserta | Learning Path | Tanggung Jawab Utama |
 | :-: | :--- | :---: | :--- | :--- |
-| 1 | **Ilyas Nur Rohman** | `A26-CS111-FS01` | AI Full Stack Developer | Backend REST API Express, JWT Auth & Database Schema |
-| 2 | **Melsindy Aulia Febiola** | `A26-CS111-FS02` | AI Full Stack Developer | Frontend React PWA (Form Input Closing & Stok Masuk) |
-| 3 | **Wasima Juhaina** | `A26-CS111-FS03` | AI Full Stack Developer | Frontend Dasbor GM, State Management & Integrasi API |
-| 4 | **Muhammad Alwi Marom** | `A26-CS111-DS01` | Data Science Specialist | Data Wrangling, EDA Tren Konsumsi & Dataset Sintetis |
-| 5 | **Lulu Noviyanti** | `A26-CS111-DS02` | Data Science Specialist | Pemodelan Peramalan (Forecasting) & Metrik Evaluasi |
-| 6 | **Yudistira Dani Azfa Wibowo** | `A26-CS111-NG01` | Next-Gen AI Engineer *(Lead AI)* | Model NLP Intent Classifier, Gemini REST API & Fallback |
+| 1 | **Ilyas Nur Rohman** | `fs183b6y0789` | AI Full Stack Developer | Backend REST API Express, JWT Auth & Database Schema |
+| 2 | **Melsindy Aulia Febiola** | `fs183b6x0976` | AI Full Stack Developer | Frontend React PWA (Form Input Closing & Stok Masuk) |
+| 3 | **Wasima Juhaina** | `fs183b6x1769` | AI Full Stack Developer | Frontend Dasbor GM, State Management & Integrasi API |
+| 4 | **Muhammad Alwi Marom** | `ds183b6y1090` | Data Science Specialist | Data Wrangling, EDA Tren Konsumsi & Dataset Sintetis |
+| 5 | **Lulu Noviyanti** | `ds183b6x0921` | Data Science Specialist | Pemodelan Peramalan (Forecasting) & Metrik Evaluasi |
+| 6 | **Yudistira Dani Azfa Wibowo** | `ae183b6y1800` | Next-Gen AI Engineer *(Lead AI)* | Model NLP Intent Classifier, Gemini REST API & Fallback |
 
 ---
 
