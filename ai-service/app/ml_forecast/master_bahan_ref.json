@@ -1,0 +1,290 @@
+{
+  "BAR12": {
+    "Nama_Bahan": "Es batu",
+    "Kelompok": "Kebutuhan Bar",
+    "Satuan_di_Lembar": "plastik",
+    "Satuan_Baku": "gram",
+    "Isi_per_Kemasan": 3000,
+    "Stok_Minimum_Baku": 3000.0
+  },
+  "BAR14": {
+    "Nama_Bahan": "Cup Reguler",
+    "Kelompok": "Kebutuhan Bar",
+    "Satuan_di_Lembar": "pcs",
+    "Satuan_Baku": "pcs",
+    "Isi_per_Kemasan": 50,
+    "Stok_Minimum_Baku": 200.0
+  },
+  "BAR15": {
+    "Nama_Bahan": "Tutup cup",
+    "Kelompok": "Kebutuhan Bar",
+    "Satuan_di_Lembar": "pcs",
+    "Satuan_Baku": "pcs",
+    "Isi_per_Kemasan": 50,
+    "Stok_Minimum_Baku": 300.0
+  },
+  "BAR16": {
+    "Nama_Bahan": "Sedotan",
+    "Kelompok": "Kebutuhan Bar",
+    "Satuan_di_Lembar": "pcs",
+    "Satuan_Baku": "pcs",
+    "Isi_per_Kemasan": 100,
+    "Stok_Minimum_Baku": 100.0
+  },
+  "KOP01": {
+    "Nama_Bahan": "Biji kopi",
+    "Kelompok": "Bahan Kopi",
+    "Satuan_di_Lembar": "gram",
+    "Satuan_Baku": "gram",
+    "Isi_per_Kemasan": 1000,
+    "Stok_Minimum_Baku": 200.0
+  },
+  "KOP02": {
+    "Nama_Bahan": "Air galon",
+    "Kelompok": "Bahan Kopi",
+    "Satuan_di_Lembar": "galon",
+    "Satuan_Baku": "ml",
+    "Isi_per_Kemasan": 19000,
+    "Stok_Minimum_Baku": 19000.0
+  },
+  "KOP03": {
+    "Nama_Bahan": "Susu UHT",
+    "Kelompok": "Bahan Kopi",
+    "Satuan_di_Lembar": "liter",
+    "Satuan_Baku": "ml",
+    "Isi_per_Kemasan": 1000,
+    "Stok_Minimum_Baku": 3000.0
+  },
+  "KOP04": {
+    "Nama_Bahan": "Krimer santos",
+    "Kelompok": "Bahan Kopi",
+    "Satuan_di_Lembar": "gram",
+    "Satuan_Baku": "gram",
+    "Isi_per_Kemasan": 1000,
+    "Stok_Minimum_Baku": 200.0
+  },
+  "KOP05": {
+    "Nama_Bahan": "SKM carnation",
+    "Kelompok": "Bahan Kopi",
+    "Satuan_di_Lembar": "ml",
+    "Satuan_Baku": "ml",
+    "Isi_per_Kemasan": 370,
+    "Stok_Minimum_Baku": 200.0
+  },
+  "KOP06": {
+    "Nama_Bahan": "Whipped cream",
+    "Kelompok": "Bahan Kopi",
+    "Satuan_di_Lembar": "ml",
+    "Satuan_Baku": "ml",
+    "Isi_per_Kemasan": 1000,
+    "Stok_Minimum_Baku": 200.0
+  },
+  "KOP07": {
+    "Nama_Bahan": "Caramel crumbs",
+    "Kelompok": "Bahan Kopi",
+    "Satuan_di_Lembar": "gram",
+    "Satuan_Baku": "gram",
+    "Isi_per_Kemasan": 500,
+    "Stok_Minimum_Baku": 100.0
+  },
+  "KOP08": {
+    "Nama_Bahan": "Sea salt",
+    "Kelompok": "Bahan Kopi",
+    "Satuan_di_Lembar": "botol",
+    "Satuan_Baku": "gram",
+    "Isi_per_Kemasan": 250,
+    "Stok_Minimum_Baku": 250.0
+  },
+  "KOP09": {
+    "Nama_Bahan": "Orange juice",
+    "Kelompok": "Bahan Kopi",
+    "Satuan_di_Lembar": "ml",
+    "Satuan_Baku": "ml",
+    "Isi_per_Kemasan": 1000,
+    "Stok_Minimum_Baku": 200.0
+  },
+  "KOP10": {
+    "Nama_Bahan": "Lemon kering",
+    "Kelompok": "Bahan Kopi",
+    "Satuan_di_Lembar": "gram",
+    "Satuan_Baku": "gram",
+    "Isi_per_Kemasan": 250,
+    "Stok_Minimum_Baku": 100.0
+  },
+  "KOP11": {
+    "Nama_Bahan": "Saus caramel",
+    "Kelompok": "Bahan Kopi",
+    "Satuan_di_Lembar": "ml",
+    "Satuan_Baku": "ml",
+    "Isi_per_Kemasan": 1000,
+    "Stok_Minimum_Baku": 100.0
+  },
+  "KOP12": {
+    "Nama_Bahan": "Bubuk red velvet",
+    "Kelompok": "Bahan Kopi",
+    "Satuan_di_Lembar": "gram",
+    "Satuan_Baku": "gram",
+    "Isi_per_Kemasan": 1000,
+    "Stok_Minimum_Baku": 200.0
+  },
+  "KOP13": {
+    "Nama_Bahan": "Bubuk coklat",
+    "Kelompok": "Bahan Kopi",
+    "Satuan_di_Lembar": "gram",
+    "Satuan_Baku": "gram",
+    "Isi_per_Kemasan": 1000,
+    "Stok_Minimum_Baku": 200.0
+  },
+  "KOP14": {
+    "Nama_Bahan": "Sirup butterscotch",
+    "Kelompok": "Bahan Kopi",
+    "Satuan_di_Lembar": "botol",
+    "Satuan_Baku": "ml",
+    "Isi_per_Kemasan": 750,
+    "Stok_Minimum_Baku": 375.0
+  },
+  "KOP15": {
+    "Nama_Bahan": "Sirup caramel",
+    "Kelompok": "Bahan Kopi",
+    "Satuan_di_Lembar": "botol",
+    "Satuan_Baku": "ml",
+    "Isi_per_Kemasan": 750,
+    "Stok_Minimum_Baku": 375.0
+  },
+  "KOP16": {
+    "Nama_Bahan": "Sirup gula aren",
+    "Kelompok": "Bahan Kopi",
+    "Satuan_di_Lembar": "botol",
+    "Satuan_Baku": "ml",
+    "Isi_per_Kemasan": 750,
+    "Stok_Minimum_Baku": 375.0
+  },
+  "KOP17": {
+    "Nama_Bahan": "Sirup vanilla",
+    "Kelompok": "Bahan Kopi",
+    "Satuan_di_Lembar": "botol",
+    "Satuan_Baku": "ml",
+    "Isi_per_Kemasan": 750,
+    "Stok_Minimum_Baku": 375.0
+  },
+  "KOP18": {
+    "Nama_Bahan": "Sirup salted caramel",
+    "Kelompok": "Bahan Kopi",
+    "Satuan_di_Lembar": "botol",
+    "Satuan_Baku": "ml",
+    "Isi_per_Kemasan": 750,
+    "Stok_Minimum_Baku": 375.0
+  },
+  "KOP19": {
+    "Nama_Bahan": "Choco chip",
+    "Kelompok": "Bahan Kopi",
+    "Satuan_di_Lembar": "gram",
+    "Satuan_Baku": "gram",
+    "Isi_per_Kemasan": 500,
+    "Stok_Minimum_Baku": 100.0
+  },
+  "KOP20": {
+    "Nama_Bahan": "Red velvet crumbs",
+    "Kelompok": "Bahan Kopi",
+    "Satuan_di_Lembar": "gram",
+    "Satuan_Baku": "gram",
+    "Isi_per_Kemasan": 500,
+    "Stok_Minimum_Baku": 100.0
+  },
+  "KOP21": {
+    "Nama_Bahan": "Oat milk",
+    "Kelompok": "Bahan Kopi",
+    "Satuan_di_Lembar": "ml",
+    "Satuan_Baku": "ml",
+    "Isi_per_Kemasan": 1000,
+    "Stok_Minimum_Baku": 200.0
+  },
+  "KOP22": {
+    "Nama_Bahan": "Free lactose milk",
+    "Kelompok": "Bahan Kopi",
+    "Satuan_di_Lembar": "ml",
+    "Satuan_Baku": "ml",
+    "Isi_per_Kemasan": 1000,
+    "Stok_Minimum_Baku": 200.0
+  },
+  "KOP23": {
+    "Nama_Bahan": "Omela milk",
+    "Kelompok": "Bahan Kopi",
+    "Satuan_di_Lembar": "ml",
+    "Satuan_Baku": "ml",
+    "Isi_per_Kemasan": 1000,
+    "Stok_Minimum_Baku": 200.0
+  },
+  "MAT01": {
+    "Nama_Bahan": "Bubuk matcha",
+    "Kelompok": "Bahan Matcha",
+    "Satuan_di_Lembar": "jar",
+    "Satuan_Baku": "gram",
+    "Isi_per_Kemasan": 100,
+    "Stok_Minimum_Baku": 200.0
+  },
+  "MAT02": {
+    "Nama_Bahan": "Strawberry puree",
+    "Kelompok": "Bahan Matcha",
+    "Satuan_di_Lembar": "botol",
+    "Satuan_Baku": "ml",
+    "Isi_per_Kemasan": 1000,
+    "Stok_Minimum_Baku": 500.0
+  },
+  "MAT03": {
+    "Nama_Bahan": "Mango puree",
+    "Kelompok": "Bahan Matcha",
+    "Satuan_di_Lembar": "botol",
+    "Satuan_Baku": "ml",
+    "Isi_per_Kemasan": 1000,
+    "Stok_Minimum_Baku": 500.0
+  },
+  "MAT04": {
+    "Nama_Bahan": "Gula cair",
+    "Kelompok": "Bahan Matcha",
+    "Satuan_di_Lembar": "ml",
+    "Satuan_Baku": "ml",
+    "Isi_per_Kemasan": 1000,
+    "Stok_Minimum_Baku": 200.0
+  },
+  "MAT05": {
+    "Nama_Bahan": "Hojicha",
+    "Kelompok": "Bahan Matcha",
+    "Satuan_di_Lembar": "(kosong)",
+    "Satuan_Baku": "gram",
+    "Isi_per_Kemasan": 250,
+    "Stok_Minimum_Baku": 100.0
+  },
+  "MAT06": {
+    "Nama_Bahan": "Sirup strawberry",
+    "Kelompok": "Bahan Matcha",
+    "Satuan_di_Lembar": "(kosong)",
+    "Satuan_Baku": "ml",
+    "Isi_per_Kemasan": 750,
+    "Stok_Minimum_Baku": 375.0
+  },
+  "TMB01": {
+    "Nama_Bahan": "Es krim vanilla",
+    "Kelompok": "Tambahan (dari menu)",
+    "Satuan_di_Lembar": "(belum ada di lembar)",
+    "Satuan_Baku": "gram",
+    "Isi_per_Kemasan": 700,
+    "Stok_Minimum_Baku": 200.0
+  },
+  "TMB02": {
+    "Nama_Bahan": "Bahan teh (Roasted Milktea)",
+    "Kelompok": "Tambahan (dari menu)",
+    "Satuan_di_Lembar": "(belum ada di lembar)",
+    "Satuan_Baku": "gram",
+    "Isi_per_Kemasan": 500,
+    "Stok_Minimum_Baku": 150.0
+  },
+  "BAR19": {
+    "Nama_Bahan": "Cup Large",
+    "Kelompok": "Kebutuhan Bar",
+    "Satuan_di_Lembar": "pcs",
+    "Satuan_Baku": "pcs",
+    "Isi_per_Kemasan": 50,
+    "Stok_Minimum_Baku": 100.0
+  }
+}
