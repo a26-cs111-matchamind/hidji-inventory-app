@@ -304,6 +304,32 @@ Seluruh endpoint selain `/api/v1/auth/login` wajib menyertakan header:
 
 ### Detail Payload Endpoint Kunci Frontend $\leftrightarrow$ Backend:
 
+#### Login — `POST /api/v1/auth/login`
+
+Request JSON:
+
+```json
+{
+  "username": "barista-demo",
+  "password": "<password akun>"
+}
+```
+
+Respons `200 OK`:
+
+```json
+{
+  "token": "<jwt-token>",
+  "role": "barista"
+}
+```
+
+Token berlaku satu jam. Nilai `role` adalah `barista` atau `gm`.
+Login memakai format error standar. Field wajib yang hilang menghasilkan
+`400 BAD_REQUEST`, nilai yang tidak valid menghasilkan `422 VALIDATION_ERROR`,
+dan kredensial yang salah menghasilkan `401 UNAUTHORIZED`. Pembatasan
+percobaan login di Express memakai `429 RATE_LIMIT_EXCEEDED`.
+
 #### A. `POST /api/v1/sales` (Barista — Catat Penjualan)
 ```json
 {

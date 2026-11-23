@@ -15,11 +15,31 @@ RESTful API Gateway dan server orkestrator inventori Hidji Coffee & Matcha. Bert
 3. **Kalkulator Restok Deterministik:** Menghitung `reorder_point - current_stock + forecast_ds` secara presisi (Zero Hallucination).
 4. **Proxy Aman ke AI Service:** Meneruskan request analitik & draf pesan ke FastAPI tanpa membocorkan API key di sisi client.
 
-## Setup & Menjalankan Lokal
-```bash
+## Setup login lokal
+
+Gunakan Node.js 22 atau lebih baru dan siapkan database Neon development.
+
+```powershell
 cd backend
-npm install
-cp .env.example .env
+Copy-Item .env.example .env
+```
+
+Isi `DATABASE_URL` dan `JWT_SECRET` di `backend/.env`. Gunakan URL Neon direct
+untuk migrasi lokal. Setelah itu jalankan:
+
+```powershell
+npm ci
+npm run db:generate
+npm run db:migrate
+$env:HIDJI_NEW_USER_PASSWORD = Read-Host "Password akun (minimal 12 karakter)" -MaskInput
+try { npm run db:create-user -- barista-demo barista } finally { Remove-Item Env:HIDJI_NEW_USER_PASSWORD }
 npm run dev
 ```
-Port default: `http://localhost:5000`
+
+Ulangi langkah pembuatan akun dengan username lain dan role `gm` untuk akun GM.
+API lokal berjalan di `http://localhost:5000` dan mengizinkan frontend di
+`http://localhost:5173` secara default. Atur `FRONTEND_ORIGIN` jika origin
+frontend berbeda.
+
+Endpoint yang tersedia pada tahap ini adalah `POST /api/v1/auth/login`.
+Lihat contoh request dan respons di [kontrak API](../docs/api-contract.md).
