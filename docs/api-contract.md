@@ -22,7 +22,9 @@ flowchart LR
 1. **Frontend dilarang memanggil `ai-service` atau `data-science` secara langsung.** Seluruh permintaan wajib melewati Backend Express agar API key (`GEMINI_API_KEY`, `INTERNAL_API_KEY`) dan URL microservice tetap aman di server.
 2. **Idempotency untuk Offline PWA:** Request mutasi stok (`POST /api/v1/sales` dan `POST /api/v1/stock/closing`) menyertakan `client_request_id` (UUID) agar sinkronisasi ulang saat internet kampus tidak stabil tidak menimbulkan pencatatan ganda.
 3. **Zero-Hallucination Angka:** Kuantitas restok (`recommended_qty`) dihitung secara **deterministik** oleh kode server/AI service. LLM hanya merangkai narasi teks dan draf pesan WhatsApp.
-4. **Penamaan ID Bahan & Menu:** Mengacu pada `Hidji_Data_Dictionary_Draft.xlsx` (`BAR01`–`BAR18`, `KOP01`–`KOP23`, `MAT01`–`MAT06`, dan menu `M01`–`M24`).
+4. **Penamaan ID Bahan & Menu:** Mengacu pada `v4_Hidji_Data_Dictionary_Draft.xlsx`:
+   - Bahan Baku (`BAR01`–`BAR19` termasuk `BAR14` Cup Reguler & `BAR19` Cup Large, `KOP01`–`KOP23`, `MAT01`–`MAT06`, `TMB01` Es krim vanilla, `TMB02` Bahan teh).
+   - Menu (`M01`–`M24`) dengan varian ukuran `R` (Reguler) dan `L` (Large, rasio konsumsi ±1.3x).
 5. **Format Standar Error (Semua Layanan):**
    ```json
    {
