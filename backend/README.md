@@ -6,7 +6,7 @@ RESTful API Gateway dan server orkestrator inventori Hidji Coffee & Matcha. Bert
 ## Tech Stack
 * **Runtime:** Node.js (LTS)
 * **Framework:** Express.js
-* **Database & ORM:** PostgreSQL (Supabase) + Prisma ORM
+* **Database & ORM:** PostgreSQL (Neon Serverless) + Prisma ORM
 * **Autentikasi:** JSON Web Token (JWT) + bcrypt
 
 ## Fitur Utama
