@@ -48,6 +48,7 @@ wheels/
 *.keras
 *.pkl
 *.joblib
+!ai-service/app/ml_forecast/hidji_ridge_bundle_v1.joblib
 *.pt
 *.pth
 *.onnx
