@@ -1,0 +1,2961 @@
+{
+  "version": "v4.0",
+  "source": "v4_Hidji_Data_Dictionary_Draft.xlsx",
+  "total_materials": 50,
+  "materials": [
+    {
+      "id": "BAR01",
+      "group": "Kebutuhan Bar",
+      "name": "Baterai timbangan A3",
+      "sheet_unit": "pcs",
+      "minimum_stock": 2.0,
+      "actual_stock_raw": "3",
+      "actual_stock_num": 3.0,
+      "is_unit_synced": true,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "pcs",
+      "pack_size": 4.0
+    },
+    {
+      "id": "BAR02",
+      "group": "Kebutuhan Bar",
+      "name": "Baterai timbangan A2",
+      "sheet_unit": "pcs",
+      "minimum_stock": 2.0,
+      "actual_stock_raw": "5",
+      "actual_stock_num": 5.0,
+      "is_unit_synced": true,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "pcs",
+      "pack_size": 4.0
+    },
+    {
+      "id": "BAR03",
+      "group": "Kebutuhan Bar",
+      "name": "Kertas struk",
+      "sheet_unit": "pcs",
+      "minimum_stock": 2.0,
+      "actual_stock_raw": "8",
+      "actual_stock_num": 8.0,
+      "is_unit_synced": true,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "pack",
+      "pack_size": 10.0
+    },
+    {
+      "id": "BAR04",
+      "group": "Kebutuhan Bar",
+      "name": "Bolpen",
+      "sheet_unit": "pcs",
+      "minimum_stock": 1.0,
+      "actual_stock_raw": "centang",
+      "actual_stock_num": null,
+      "is_unit_synced": false,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "pcs",
+      "pack_size": 3.0
+    },
+    {
+      "id": "BAR05",
+      "group": "Kebutuhan Bar",
+      "name": "Sabun mesin espresso",
+      "sheet_unit": "botol",
+      "minimum_stock": 1.0,
+      "actual_stock_raw": "centang",
+      "actual_stock_num": null,
+      "is_unit_synced": false,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "ml",
+      "pack_size": 450.0
+    },
+    {
+      "id": "BAR06",
+      "group": "Kebutuhan Bar",
+      "name": "Plastik takeaway 1 cup",
+      "sheet_unit": "pack",
+      "minimum_stock": 1.0,
+      "actual_stock_raw": "centang",
+      "actual_stock_num": null,
+      "is_unit_synced": false,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "pcs",
+      "pack_size": 50.0
+    },
+    {
+      "id": "BAR07",
+      "group": "Kebutuhan Bar",
+      "name": "Plastik takeaway 2 cup",
+      "sheet_unit": "pack",
+      "minimum_stock": 1.0,
+      "actual_stock_raw": "centang",
+      "actual_stock_num": null,
+      "is_unit_synced": false,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "pcs",
+      "pack_size": 50.0
+    },
+    {
+      "id": "BAR08",
+      "group": "Kebutuhan Bar",
+      "name": "Sarung tangan karet",
+      "sheet_unit": "pack",
+      "minimum_stock": 1.0,
+      "actual_stock_raw": "centang",
+      "actual_stock_num": null,
+      "is_unit_synced": false,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "pcs",
+      "pack_size": 100.0
+    },
+    {
+      "id": "BAR09",
+      "group": "Kebutuhan Bar",
+      "name": "Gelas free water",
+      "sheet_unit": "pcs",
+      "minimum_stock": 10.0,
+      "actual_stock_raw": "centang",
+      "actual_stock_num": null,
+      "is_unit_synced": false,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "pcs",
+      "pack_size": 100.0
+    },
+    {
+      "id": "BAR10",
+      "group": "Kebutuhan Bar",
+      "name": "Plastik wrap",
+      "sheet_unit": "pack",
+      "minimum_stock": 1.0,
+      "actual_stock_raw": "centang",
+      "actual_stock_num": null,
+      "is_unit_synced": false,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "pcs",
+      "pack_size": 50.0
+    },
+    {
+      "id": "BAR11",
+      "group": "Kebutuhan Bar",
+      "name": "Cup minum pribadi (cadangan)",
+      "sheet_unit": "pcs",
+      "minimum_stock": 10.0,
+      "actual_stock_raw": "centang",
+      "actual_stock_num": null,
+      "is_unit_synced": false,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "pcs",
+      "pack_size": 50.0
+    },
+    {
+      "id": "BAR12",
+      "group": "Kebutuhan Bar",
+      "name": "Es batu",
+      "sheet_unit": "plastik",
+      "minimum_stock": 1.0,
+      "actual_stock_raw": "3/4",
+      "actual_stock_num": 0.75,
+      "is_unit_synced": true,
+      "is_under_minimum": true,
+      "marked_r": false,
+      "standard_unit": "kg",
+      "pack_size": 20.0
+    },
+    {
+      "id": "BAR13",
+      "group": "Kebutuhan Bar",
+      "name": "Tisu customer",
+      "sheet_unit": "pcs",
+      "minimum_stock": 1.0,
+      "actual_stock_raw": "1",
+      "actual_stock_num": 1.0,
+      "is_unit_synced": true,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "pcs",
+      "pack_size": 10.0
+    },
+    {
+      "id": "BAR14",
+      "group": "Kebutuhan Bar",
+      "name": "Cup Reguler",
+      "sheet_unit": "pcs",
+      "minimum_stock": 200.0,
+      "actual_stock_raw": "142",
+      "actual_stock_num": 142.0,
+      "is_unit_synced": true,
+      "is_under_minimum": true,
+      "marked_r": false,
+      "standard_unit": "pcs",
+      "pack_size": 300.0
+    },
+    {
+      "id": "BAR15",
+      "group": "Kebutuhan Bar",
+      "name": "Tutup cup",
+      "sheet_unit": "pcs",
+      "minimum_stock": 300.0,
+      "actual_stock_raw": "285",
+      "actual_stock_num": 285.0,
+      "is_unit_synced": true,
+      "is_under_minimum": true,
+      "marked_r": false,
+      "standard_unit": "pcs",
+      "pack_size": 500.0
+    },
+    {
+      "id": "BAR16",
+      "group": "Kebutuhan Bar",
+      "name": "Sedotan",
+      "sheet_unit": "pcs",
+      "minimum_stock": 100.0,
+      "actual_stock_raw": "225",
+      "actual_stock_num": 225.0,
+      "is_unit_synced": true,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "pcs",
+      "pack_size": 500.0
+    },
+    {
+      "id": "BAR17",
+      "group": "Kebutuhan Bar",
+      "name": "Tisu bar",
+      "sheet_unit": "pcs",
+      "minimum_stock": 1.0,
+      "actual_stock_raw": "2",
+      "actual_stock_num": 2.0,
+      "is_unit_synced": true,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "pcs",
+      "pack_size": 10.0
+    },
+    {
+      "id": "BAR18",
+      "group": "Kebutuhan Bar",
+      "name": "Listrik",
+      "sheet_unit": "kWh",
+      "minimum_stock": null,
+      "actual_stock_raw": "(kosong)",
+      "actual_stock_num": null,
+      "is_unit_synced": false,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "kWh",
+      "pack_size": 480.0
+    },
+    {
+      "id": "KOP01",
+      "group": "Bahan Kopi",
+      "name": "Biji kopi",
+      "sheet_unit": "gram",
+      "minimum_stock": 200.0,
+      "actual_stock_raw": "1250",
+      "actual_stock_num": 1250.0,
+      "is_unit_synced": true,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "gram",
+      "pack_size": 3000.0
+    },
+    {
+      "id": "KOP02",
+      "group": "Bahan Kopi",
+      "name": "Air galon",
+      "sheet_unit": "galon",
+      "minimum_stock": 1.0,
+      "actual_stock_raw": "1/4",
+      "actual_stock_num": 0.25,
+      "is_unit_synced": true,
+      "is_under_minimum": true,
+      "marked_r": false,
+      "standard_unit": "liter",
+      "pack_size": 45.0
+    },
+    {
+      "id": "KOP03",
+      "group": "Bahan Kopi",
+      "name": "Susu UHT",
+      "sheet_unit": "liter",
+      "minimum_stock": 3.0,
+      "actual_stock_raw": "10",
+      "actual_stock_num": 10.0,
+      "is_unit_synced": true,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "liter",
+      "pack_size": 20.0
+    },
+    {
+      "id": "KOP04",
+      "group": "Bahan Kopi",
+      "name": "Krimer santos",
+      "sheet_unit": "gram",
+      "minimum_stock": 200.0,
+      "actual_stock_raw": "6",
+      "actual_stock_num": 6.0,
+      "is_unit_synced": false,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "gram",
+      "pack_size": 1000.0
+    },
+    {
+      "id": "KOP05",
+      "group": "Bahan Kopi",
+      "name": "SKM carnation",
+      "sheet_unit": "ml",
+      "minimum_stock": 200.0,
+      "actual_stock_raw": "1/2",
+      "actual_stock_num": 0.5,
+      "is_unit_synced": false,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "ml",
+      "pack_size": 1000.0
+    },
+    {
+      "id": "KOP06",
+      "group": "Bahan Kopi",
+      "name": "Whipped cream",
+      "sheet_unit": "ml",
+      "minimum_stock": 200.0,
+      "actual_stock_raw": "3/4",
+      "actual_stock_num": 0.75,
+      "is_unit_synced": false,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "ml",
+      "pack_size": 1000.0
+    },
+    {
+      "id": "KOP07",
+      "group": "Bahan Kopi",
+      "name": "Caramel crumbs",
+      "sheet_unit": "gram",
+      "minimum_stock": 100.0,
+      "actual_stock_raw": "1/2",
+      "actual_stock_num": 0.5,
+      "is_unit_synced": false,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "gram",
+      "pack_size": 1000.0
+    },
+    {
+      "id": "KOP08",
+      "group": "Bahan Kopi",
+      "name": "Sea salt",
+      "sheet_unit": "botol",
+      "minimum_stock": 1.0,
+      "actual_stock_raw": "R",
+      "actual_stock_num": null,
+      "is_unit_synced": false,
+      "is_under_minimum": false,
+      "marked_r": true,
+      "standard_unit": "ml",
+      "pack_size": 1000.0
+    },
+    {
+      "id": "KOP09",
+      "group": "Bahan Kopi",
+      "name": "Orange juice",
+      "sheet_unit": "ml",
+      "minimum_stock": 200.0,
+      "actual_stock_raw": "±600",
+      "actual_stock_num": 600.0,
+      "is_unit_synced": true,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "ml",
+      "pack_size": 1000.0
+    },
+    {
+      "id": "KOP10",
+      "group": "Bahan Kopi",
+      "name": "Lemon kering",
+      "sheet_unit": "gram",
+      "minimum_stock": 100.0,
+      "actual_stock_raw": "1/2",
+      "actual_stock_num": 0.5,
+      "is_unit_synced": false,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "gram",
+      "pack_size": 500.0
+    },
+    {
+      "id": "KOP11",
+      "group": "Bahan Kopi",
+      "name": "Saus caramel",
+      "sheet_unit": "ml",
+      "minimum_stock": 100.0,
+      "actual_stock_raw": "1/4",
+      "actual_stock_num": 0.25,
+      "is_unit_synced": false,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "ml",
+      "pack_size": 500.0
+    },
+    {
+      "id": "KOP12",
+      "group": "Bahan Kopi",
+      "name": "Bubuk red velvet",
+      "sheet_unit": "gram",
+      "minimum_stock": 200.0,
+      "actual_stock_raw": "1/4",
+      "actual_stock_num": 0.25,
+      "is_unit_synced": false,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "gram",
+      "pack_size": 500.0
+    },
+    {
+      "id": "KOP13",
+      "group": "Bahan Kopi",
+      "name": "Bubuk coklat",
+      "sheet_unit": "gram",
+      "minimum_stock": 200.0,
+      "actual_stock_raw": "1/4",
+      "actual_stock_num": 0.25,
+      "is_unit_synced": false,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "gram",
+      "pack_size": 500.0
+    },
+    {
+      "id": "KOP14",
+      "group": "Bahan Kopi",
+      "name": "Sirup butterscotch",
+      "sheet_unit": "botol",
+      "minimum_stock": 0.5,
+      "actual_stock_raw": "3/4",
+      "actual_stock_num": 0.75,
+      "is_unit_synced": true,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "ml",
+      "pack_size": 1000.0
+    },
+    {
+      "id": "KOP15",
+      "group": "Bahan Kopi",
+      "name": "Sirup caramel",
+      "sheet_unit": "botol",
+      "minimum_stock": 0.5,
+      "actual_stock_raw": "1/8",
+      "actual_stock_num": 0.125,
+      "is_unit_synced": true,
+      "is_under_minimum": true,
+      "marked_r": false,
+      "standard_unit": "ml",
+      "pack_size": 1000.0
+    },
+    {
+      "id": "KOP16",
+      "group": "Bahan Kopi",
+      "name": "Sirup gula aren",
+      "sheet_unit": "botol",
+      "minimum_stock": 0.5,
+      "actual_stock_raw": "1/4",
+      "actual_stock_num": 0.25,
+      "is_unit_synced": true,
+      "is_under_minimum": true,
+      "marked_r": false,
+      "standard_unit": "ml",
+      "pack_size": 1000.0
+    },
+    {
+      "id": "KOP17",
+      "group": "Bahan Kopi",
+      "name": "Sirup vanilla",
+      "sheet_unit": "botol",
+      "minimum_stock": 0.5,
+      "actual_stock_raw": "1/2",
+      "actual_stock_num": 0.5,
+      "is_unit_synced": true,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "ml",
+      "pack_size": 1000.0
+    },
+    {
+      "id": "KOP18",
+      "group": "Bahan Kopi",
+      "name": "Sirup salted caramel",
+      "sheet_unit": "botol",
+      "minimum_stock": 0.5,
+      "actual_stock_raw": "3/4",
+      "actual_stock_num": 0.75,
+      "is_unit_synced": true,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "ml",
+      "pack_size": 1000.0
+    },
+    {
+      "id": "KOP19",
+      "group": "Bahan Kopi",
+      "name": "Choco chip",
+      "sheet_unit": "gram",
+      "minimum_stock": 100.0,
+      "actual_stock_raw": "1/4",
+      "actual_stock_num": 0.25,
+      "is_unit_synced": false,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "gram",
+      "pack_size": 500.0
+    },
+    {
+      "id": "KOP20",
+      "group": "Bahan Kopi",
+      "name": "Red velvet crumbs",
+      "sheet_unit": "gram",
+      "minimum_stock": 100.0,
+      "actual_stock_raw": "1/4",
+      "actual_stock_num": 0.25,
+      "is_unit_synced": false,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "gram",
+      "pack_size": 500.0
+    },
+    {
+      "id": "KOP21",
+      "group": "Bahan Kopi",
+      "name": "Oat milk",
+      "sheet_unit": "ml",
+      "minimum_stock": 200.0,
+      "actual_stock_raw": "800",
+      "actual_stock_num": 800.0,
+      "is_unit_synced": true,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "ml",
+      "pack_size": 1000.0
+    },
+    {
+      "id": "KOP22",
+      "group": "Bahan Kopi",
+      "name": "Free lactose milk",
+      "sheet_unit": "ml",
+      "minimum_stock": 200.0,
+      "actual_stock_raw": "300",
+      "actual_stock_num": 300.0,
+      "is_unit_synced": true,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "ml",
+      "pack_size": 1000.0
+    },
+    {
+      "id": "KOP23",
+      "group": "Bahan Kopi",
+      "name": "Omela milk",
+      "sheet_unit": "ml",
+      "minimum_stock": 200.0,
+      "actual_stock_raw": "(kosong)",
+      "actual_stock_num": null,
+      "is_unit_synced": false,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "ml",
+      "pack_size": 1000.0
+    },
+    {
+      "id": "MAT01",
+      "group": "Bahan Matcha",
+      "name": "Bubuk matcha",
+      "sheet_unit": "jar",
+      "minimum_stock": 2.0,
+      "actual_stock_raw": "(kosong)",
+      "actual_stock_num": null,
+      "is_unit_synced": false,
+      "is_under_minimum": false,
+      "marked_r": true,
+      "standard_unit": "gram",
+      "pack_size": 500.0
+    },
+    {
+      "id": "MAT02",
+      "group": "Bahan Matcha",
+      "name": "Strawberry puree",
+      "sheet_unit": "botol",
+      "minimum_stock": 0.5,
+      "actual_stock_raw": "200",
+      "actual_stock_num": 200.0,
+      "is_unit_synced": false,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "ml",
+      "pack_size": 1000.0
+    },
+    {
+      "id": "MAT03",
+      "group": "Bahan Matcha",
+      "name": "Mango puree",
+      "sheet_unit": "botol",
+      "minimum_stock": 0.5,
+      "actual_stock_raw": "100",
+      "actual_stock_num": 100.0,
+      "is_unit_synced": false,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "ml",
+      "pack_size": 1000.0
+    },
+    {
+      "id": "MAT04",
+      "group": "Bahan Matcha",
+      "name": "Gula cair",
+      "sheet_unit": "ml",
+      "minimum_stock": 200.0,
+      "actual_stock_raw": "1/4",
+      "actual_stock_num": 0.25,
+      "is_unit_synced": false,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "ml",
+      "pack_size": 1000.0
+    },
+    {
+      "id": "MAT05",
+      "group": "Bahan Matcha",
+      "name": "Hojicha",
+      "sheet_unit": "(kosong)",
+      "minimum_stock": null,
+      "actual_stock_raw": "160",
+      "actual_stock_num": 160.0,
+      "is_unit_synced": false,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "gram",
+      "pack_size": 500.0
+    },
+    {
+      "id": "MAT06",
+      "group": "Bahan Matcha",
+      "name": "Sirup strawberry",
+      "sheet_unit": "(kosong)",
+      "minimum_stock": null,
+      "actual_stock_raw": "1/2",
+      "actual_stock_num": 0.5,
+      "is_unit_synced": false,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "ml",
+      "pack_size": 500.0
+    },
+    {
+      "id": "TMB01",
+      "group": "Tambahan (dari menu)",
+      "name": "Es krim vanilla",
+      "sheet_unit": "(belum ada di lembar)",
+      "minimum_stock": null,
+      "actual_stock_raw": "(belum dicatat)",
+      "actual_stock_num": null,
+      "is_unit_synced": false,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "liter",
+      "pack_size": 2.0
+    },
+    {
+      "id": "TMB02",
+      "group": "Tambahan (dari menu)",
+      "name": "Bahan teh (Roasted Milktea)",
+      "sheet_unit": "(belum ada di lembar)",
+      "minimum_stock": null,
+      "actual_stock_raw": "(belum dicatat)",
+      "actual_stock_num": null,
+      "is_unit_synced": false,
+      "is_under_minimum": false,
+      "marked_r": false,
+      "standard_unit": "gram",
+      "pack_size": 500.0
+    },
+    {
+      "id": "BAR19",
+      "group": "Kebutuhan Bar",
+      "name": "Cup Large",
+      "sheet_unit": "pcs",
+      "minimum_stock": 100.0,
+      "actual_stock_raw": "95",
+      "actual_stock_num": 95.0,
+      "is_unit_synced": true,
+      "is_under_minimum": true,
+      "marked_r": false,
+      "standard_unit": "pcs",
+      "pack_size": 200.0
+    }
+  ],
+  "total_menus": 24,
+  "menus": [
+    {
+      "id": "M01",
+      "category": "Hidji Specials",
+      "name": "Butterscotch Seasalt Cream",
+      "price_regular_k": 25.0,
+      "price_large_k": 30.0,
+      "notes": null,
+      "candidate_ingredients": [
+        "Biji kopi",
+        "Susu UHT",
+        "Sirup butterscotch",
+        "Sea salt",
+        "Whipped cream"
+      ]
+    },
+    {
+      "id": "M02",
+      "category": "Hidji Specials",
+      "name": "Iced Hidji",
+      "price_regular_k": 20.0,
+      "price_large_k": 25.0,
+      "notes": null,
+      "candidate_ingredients": [
+        "Biji kopi",
+        "Susu UHT",
+        "Es batu"
+      ]
+    },
+    {
+      "id": "M03",
+      "category": "Hidji Specials",
+      "name": "Hidjicano",
+      "price_regular_k": 22.0,
+      "price_large_k": 27.0,
+      "notes": null,
+      "candidate_ingredients": [
+        "Biji kopi",
+        "Susu UHT"
+      ]
+    },
+    {
+      "id": "M04",
+      "category": "Hidji Specials",
+      "name": "Hidji Float",
+      "price_regular_k": 23.0,
+      "price_large_k": 28.0,
+      "notes": null,
+      "candidate_ingredients": [
+        "Biji kopi"
+      ]
+    },
+    {
+      "id": "M05",
+      "category": "Milkbased",
+      "name": "Caramel Macchiato",
+      "price_regular_k": 23.0,
+      "price_large_k": 28.0,
+      "notes": null,
+      "candidate_ingredients": [
+        "Biji kopi",
+        "Susu UHT",
+        "Sirup caramel",
+        "Saus caramel"
+      ]
+    },
+    {
+      "id": "M06",
+      "category": "Milkbased",
+      "name": "Aren Latte",
+      "price_regular_k": 20.0,
+      "price_large_k": 25.0,
+      "notes": null,
+      "candidate_ingredients": [
+        "Biji kopi",
+        "Susu UHT",
+        "Sirup gula aren"
+      ]
+    },
+    {
+      "id": "M07",
+      "category": "Milkbased",
+      "name": "Flavour Latte",
+      "price_regular_k": 22.0,
+      "price_large_k": 27.0,
+      "notes": "Varian: vanilla, butterscotch, caramel, salted caramel",
+      "candidate_ingredients": [
+        "Biji kopi",
+        "Susu UHT",
+        "sirup sesuai varian"
+      ]
+    },
+    {
+      "id": "M08",
+      "category": "Basic Coffee",
+      "name": "Americano Hot",
+      "price_regular_k": 15.0,
+      "price_large_k": null,
+      "notes": "Satu harga",
+      "candidate_ingredients": [
+        "Biji kopi",
+        "Air galon"
+      ]
+    },
+    {
+      "id": "M09",
+      "category": "Basic Coffee",
+      "name": "Americano Ice",
+      "price_regular_k": 15.0,
+      "price_large_k": 20.0,
+      "notes": "Ditulis 'Ameracano Ice' di poster",
+      "candidate_ingredients": [
+        "Biji kopi",
+        "Air galon",
+        "Es batu"
+      ]
+    },
+    {
+      "id": "M10",
+      "category": "Basic Coffee",
+      "name": "Cafe Latte Hot",
+      "price_regular_k": 18.0,
+      "price_large_k": null,
+      "notes": "Satu harga",
+      "candidate_ingredients": [
+        "Biji kopi",
+        "Susu UHT"
+      ]
+    },
+    {
+      "id": "M11",
+      "category": "Basic Coffee",
+      "name": "Cafe Latte Ice",
+      "price_regular_k": 18.0,
+      "price_large_k": 23.0,
+      "notes": null,
+      "candidate_ingredients": [
+        "Biji kopi",
+        "Susu UHT",
+        "Es batu"
+      ]
+    },
+    {
+      "id": "M12",
+      "category": "Add On",
+      "name": "Espresso",
+      "price_regular_k": 5.0,
+      "price_large_k": null,
+      "notes": "Satu harga",
+      "candidate_ingredients": [
+        "Biji kopi"
+      ]
+    },
+    {
+      "id": "M13",
+      "category": "Add On",
+      "name": "Oat Milk",
+      "price_regular_k": 5.0,
+      "price_large_k": null,
+      "notes": "Satu harga",
+      "candidate_ingredients": [
+        "Oat milk"
+      ]
+    },
+    {
+      "id": "M14",
+      "category": "Add On",
+      "name": "Free Lactose Milk",
+      "price_regular_k": 5.0,
+      "price_large_k": null,
+      "notes": "Satu harga",
+      "candidate_ingredients": [
+        "Free lactose milk"
+      ]
+    },
+    {
+      "id": "M15",
+      "category": "Add On",
+      "name": "Ice Cream Vanilla",
+      "price_regular_k": 5.0,
+      "price_large_k": null,
+      "notes": "Satu harga",
+      "candidate_ingredients": []
+    },
+    {
+      "id": "M16",
+      "category": "Matcha Series",
+      "name": "Matcha Latte",
+      "price_regular_k": 20.0,
+      "price_large_k": 25.0,
+      "notes": null,
+      "candidate_ingredients": [
+        "Bubuk matcha",
+        "Susu UHT",
+        "Gula cair"
+      ]
+    },
+    {
+      "id": "M17",
+      "category": "Matcha Series",
+      "name": "Strawberry Matcha",
+      "price_regular_k": 23.0,
+      "price_large_k": 27.0,
+      "notes": null,
+      "candidate_ingredients": [
+        "Bubuk matcha",
+        "Strawberry puree",
+        "Sirup strawberry",
+        "Susu UHT"
+      ]
+    },
+    {
+      "id": "M18",
+      "category": "Matcha Series",
+      "name": "Mango Matcha",
+      "price_regular_k": 23.0,
+      "price_large_k": 27.0,
+      "notes": null,
+      "candidate_ingredients": [
+        "Bubuk matcha",
+        "Mango puree",
+        "Susu UHT"
+      ]
+    },
+    {
+      "id": "M19",
+      "category": "Matcha Series",
+      "name": "Pink Matcha",
+      "price_regular_k": 25.0,
+      "price_large_k": 30.0,
+      "notes": null,
+      "candidate_ingredients": [
+        "Bubuk matcha",
+        "Sirup strawberry (dikonfirmasi Mas Yassat)",
+        "Susu UHT"
+      ]
+    },
+    {
+      "id": "M20",
+      "category": "Matcha Series",
+      "name": "Matcha Seasalt Cream",
+      "price_regular_k": 25.0,
+      "price_large_k": 30.0,
+      "notes": null,
+      "candidate_ingredients": [
+        "Bubuk matcha",
+        "Sea salt",
+        "Whipped cream",
+        "Susu UHT"
+      ]
+    },
+    {
+      "id": "M21",
+      "category": "Tea Series",
+      "name": "Roasted Milktea",
+      "price_regular_k": 20.0,
+      "price_large_k": 25.0,
+      "notes": null,
+      "candidate_ingredients": [
+        "Susu UHT",
+        "SKM carnation"
+      ]
+    },
+    {
+      "id": "M22",
+      "category": "Tea Series",
+      "name": "Hojicha Tea",
+      "price_regular_k": 15.0,
+      "price_large_k": 20.0,
+      "notes": null,
+      "candidate_ingredients": [
+        "Hojicha"
+      ]
+    },
+    {
+      "id": "M23",
+      "category": "Others",
+      "name": "Red velvet",
+      "price_regular_k": 20.0,
+      "price_large_k": 25.0,
+      "notes": null,
+      "candidate_ingredients": [
+        "Bubuk red velvet",
+        "Susu UHT",
+        "Red velvet crumbs"
+      ]
+    },
+    {
+      "id": "M24",
+      "category": "Others",
+      "name": "Chocolate",
+      "price_regular_k": 20.0,
+      "price_large_k": 25.0,
+      "notes": null,
+      "candidate_ingredients": [
+        "Bubuk coklat",
+        "Susu UHT"
+      ]
+    }
+  ],
+  "total_recipes": 42,
+  "recipes": [
+    {
+      "menu_id": "M01",
+      "menu_name": "Butterscotch Seasalt Cream",
+      "variant": "Reguler",
+      "ingredients": [
+        {
+          "material_id": "KOP01",
+          "material_name": "Biji kopi",
+          "amount": "18",
+          "unit": "gram"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "120",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP14",
+          "material_name": "Sirup butterscotch",
+          "amount": "20",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP06",
+          "material_name": "Whipped cream",
+          "amount": "30",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP08",
+          "material_name": "Sea salt",
+          "amount": "0.5",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "100",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR14",
+          "material_name": "Cup Reguler",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M01",
+      "menu_name": "Butterscotch Seasalt Cream",
+      "variant": "Large",
+      "ingredients": [
+        {
+          "material_id": "KOP01",
+          "material_name": "Biji kopi",
+          "amount": "23",
+          "unit": "gram"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "155",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP14",
+          "material_name": "Sirup butterscotch",
+          "amount": "26",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP06",
+          "material_name": "Whipped cream",
+          "amount": "39",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP08",
+          "material_name": "Sea salt",
+          "amount": "1",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "130",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR19",
+          "material_name": "Cup Large",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal (Large = Reguler x 1,3) - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M02",
+      "menu_name": "Iced Hidji",
+      "variant": "Reguler",
+      "ingredients": [
+        {
+          "material_id": "KOP01",
+          "material_name": "Biji kopi",
+          "amount": "18",
+          "unit": "gram"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "120",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "100",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR14",
+          "material_name": "Cup Reguler",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M02",
+      "menu_name": "Iced Hidji",
+      "variant": "Large",
+      "ingredients": [
+        {
+          "material_id": "KOP01",
+          "material_name": "Biji kopi",
+          "amount": "23",
+          "unit": "gram"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "155",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "130",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR19",
+          "material_name": "Cup Large",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal (Large = Reguler x 1,3) - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M03",
+      "menu_name": "Hidjicano",
+      "variant": "Reguler",
+      "ingredients": [
+        {
+          "material_id": "KOP01",
+          "material_name": "Biji kopi",
+          "amount": "18",
+          "unit": "gram"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "100",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "100",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR14",
+          "material_name": "Cup Reguler",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M03",
+      "menu_name": "Hidjicano",
+      "variant": "Large",
+      "ingredients": [
+        {
+          "material_id": "KOP01",
+          "material_name": "Biji kopi",
+          "amount": "23",
+          "unit": "gram"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "130",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "130",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR19",
+          "material_name": "Cup Large",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal (Large = Reguler x 1,3) - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M04",
+      "menu_name": "Hidji Float",
+      "variant": "Reguler",
+      "ingredients": [
+        {
+          "material_id": "KOP01",
+          "material_name": "Biji kopi",
+          "amount": "18",
+          "unit": "gram"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "100",
+          "unit": "ml"
+        },
+        {
+          "material_id": "TMB01",
+          "material_name": "Es krim vanilla",
+          "amount": "50",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "80",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR14",
+          "material_name": "Cup Reguler",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M04",
+      "menu_name": "Hidji Float",
+      "variant": "Large",
+      "ingredients": [
+        {
+          "material_id": "KOP01",
+          "material_name": "Biji kopi",
+          "amount": "23",
+          "unit": "gram"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "130",
+          "unit": "ml"
+        },
+        {
+          "material_id": "TMB01",
+          "material_name": "Es krim vanilla",
+          "amount": "65",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "105",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR19",
+          "material_name": "Cup Large",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal (Large = Reguler x 1,3) - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M05",
+      "menu_name": "Caramel Macchiato",
+      "variant": "Reguler",
+      "ingredients": [
+        {
+          "material_id": "KOP01",
+          "material_name": "Biji kopi",
+          "amount": "18",
+          "unit": "gram"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "120",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP15",
+          "material_name": "Sirup caramel",
+          "amount": "15",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP11",
+          "material_name": "Saus caramel",
+          "amount": "10",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "100",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR14",
+          "material_name": "Cup Reguler",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M05",
+      "menu_name": "Caramel Macchiato",
+      "variant": "Large",
+      "ingredients": [
+        {
+          "material_id": "KOP01",
+          "material_name": "Biji kopi",
+          "amount": "23",
+          "unit": "gram"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "155",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP15",
+          "material_name": "Sirup caramel",
+          "amount": "20",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP11",
+          "material_name": "Saus caramel",
+          "amount": "13",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "130",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR19",
+          "material_name": "Cup Large",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal (Large = Reguler x 1,3) - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M06",
+      "menu_name": "Aren Latte",
+      "variant": "Reguler",
+      "ingredients": [
+        {
+          "material_id": "KOP01",
+          "material_name": "Biji kopi",
+          "amount": "18",
+          "unit": "gram"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "120",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP16",
+          "material_name": "Sirup gula aren",
+          "amount": "20",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "100",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR14",
+          "material_name": "Cup Reguler",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M06",
+      "menu_name": "Aren Latte",
+      "variant": "Large",
+      "ingredients": [
+        {
+          "material_id": "KOP01",
+          "material_name": "Biji kopi",
+          "amount": "23",
+          "unit": "gram"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "155",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP16",
+          "material_name": "Sirup gula aren",
+          "amount": "26",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "130",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR19",
+          "material_name": "Cup Large",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal (Large = Reguler x 1,3) - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M07",
+      "menu_name": "Flavour Latte",
+      "variant": "Reguler (varian: vanilla / butterscotch / caramel / salted caramel)",
+      "ingredients": [
+        {
+          "material_id": "KOP01",
+          "material_name": "Biji kopi",
+          "amount": "18",
+          "unit": "gram"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "120",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP17/KOP14/KOP15/KOP18",
+          "material_name": "Sirup sesuai varian (pilih 1): vanilla / butterscotch / caramel / salted caramel",
+          "amount": "20",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "100",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR14",
+          "material_name": "Cup Reguler",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M07",
+      "menu_name": "Flavour Latte",
+      "variant": "Large (varian: vanilla / butterscotch / caramel / salted caramel)",
+      "ingredients": [
+        {
+          "material_id": "KOP01",
+          "material_name": "Biji kopi",
+          "amount": "23",
+          "unit": "gram"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "155",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP17/KOP14/KOP15/KOP18",
+          "material_name": "Sirup sesuai varian (pilih 1): vanilla / butterscotch / caramel / salted caramel",
+          "amount": "26",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "130",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR19",
+          "material_name": "Cup Large",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal (Large = Reguler x 1,3) - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M08",
+      "menu_name": "Americano Hot",
+      "variant": "Satu ukuran (belum dikonfirmasi)",
+      "ingredients": [
+        {
+          "material_id": "KOP01",
+          "material_name": "Biji kopi",
+          "amount": "18",
+          "unit": "gram"
+        },
+        {
+          "material_id": "KOP02",
+          "material_name": "Air galon",
+          "amount": "150",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR14",
+          "material_name": "Cup Reguler",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M09",
+      "menu_name": "Americano Ice",
+      "variant": "Reguler",
+      "ingredients": [
+        {
+          "material_id": "KOP01",
+          "material_name": "Biji kopi",
+          "amount": "18",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "120",
+          "unit": "gram"
+        },
+        {
+          "material_id": "KOP02",
+          "material_name": "Air galon",
+          "amount": "120",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR14",
+          "material_name": "Cup Reguler",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Diisi tim - perlu verifikasi Hidji"
+    },
+    {
+      "menu_id": "M09",
+      "menu_name": "Americano Ice",
+      "variant": "Large",
+      "ingredients": [
+        {
+          "material_id": "KOP01",
+          "material_name": "Biji kopi",
+          "amount": "23",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "155",
+          "unit": "gram"
+        },
+        {
+          "material_id": "KOP02",
+          "material_name": "Air galon",
+          "amount": "155",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR19",
+          "material_name": "Cup Large",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal (Large = Reguler x 1,3) - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M10",
+      "menu_name": "Cafe Latte Hot",
+      "variant": "Satu ukuran (belum dikonfirmasi)",
+      "ingredients": [
+        {
+          "material_id": "KOP01",
+          "material_name": "Biji kopi",
+          "amount": "18",
+          "unit": "gram"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "150",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR14",
+          "material_name": "Cup Reguler",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M11",
+      "menu_name": "Cafe Latte Ice",
+      "variant": "Reguler",
+      "ingredients": [
+        {
+          "material_id": "KOP01",
+          "material_name": "Biji kopi",
+          "amount": "18",
+          "unit": "gram"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "120",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "100",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR14",
+          "material_name": "Cup Reguler",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M11",
+      "menu_name": "Cafe Latte Ice",
+      "variant": "Large",
+      "ingredients": [
+        {
+          "material_id": "KOP01",
+          "material_name": "Biji kopi",
+          "amount": "23",
+          "unit": "gram"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "155",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "130",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR19",
+          "material_name": "Cup Large",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal (Large = Reguler x 1,3) - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M12",
+      "menu_name": "Espresso",
+      "variant": "Add on (opsional)",
+      "ingredients": [
+        {
+          "material_id": "KOP01",
+          "material_name": "Biji kopi",
+          "amount": "18",
+          "unit": "gram"
+        }
+      ],
+      "status": "Estimasi awal - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M13",
+      "menu_name": "Oat Milk",
+      "variant": "Add on (opsional)",
+      "ingredients": [
+        {
+          "material_id": "KOP21",
+          "material_name": "Oat milk",
+          "amount": "120",
+          "unit": "ml"
+        }
+      ],
+      "status": "Estimasi awal - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M14",
+      "menu_name": "Free Lactose Milk",
+      "variant": "Add on (opsional)",
+      "ingredients": [
+        {
+          "material_id": "KOP22",
+          "material_name": "Free lactose milk",
+          "amount": "120",
+          "unit": "ml"
+        }
+      ],
+      "status": "Estimasi awal - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M15",
+      "menu_name": "Ice Cream Vanilla",
+      "variant": "Add on (opsional)",
+      "ingredients": [
+        {
+          "material_id": "TMB01",
+          "material_name": "Es krim vanilla",
+          "amount": "50",
+          "unit": "gram"
+        }
+      ],
+      "status": "Estimasi awal - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M16",
+      "menu_name": "Matcha Latte",
+      "variant": "Reguler",
+      "ingredients": [
+        {
+          "material_id": "MAT01",
+          "material_name": "Bubuk matcha",
+          "amount": "4",
+          "unit": "gram"
+        },
+        {
+          "material_id": "MAT04",
+          "material_name": "Gula cair",
+          "amount": "15",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "120",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "100",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR14",
+          "material_name": "Cup Reguler",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M16",
+      "menu_name": "Matcha Latte",
+      "variant": "Large",
+      "ingredients": [
+        {
+          "material_id": "MAT01",
+          "material_name": "Bubuk matcha",
+          "amount": "5",
+          "unit": "gram"
+        },
+        {
+          "material_id": "MAT04",
+          "material_name": "Gula cair",
+          "amount": "20",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "155",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "130",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR19",
+          "material_name": "Cup Large",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal (Large = Reguler x 1,3) - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M17",
+      "menu_name": "Strawberry Matcha",
+      "variant": "Reguler",
+      "ingredients": [
+        {
+          "material_id": "MAT01",
+          "material_name": "Bubuk matcha",
+          "amount": "4",
+          "unit": "gram"
+        },
+        {
+          "material_id": "MAT02",
+          "material_name": "Strawberry puree",
+          "amount": "30",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "120",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "100",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR14",
+          "material_name": "Cup Reguler",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M17",
+      "menu_name": "Strawberry Matcha",
+      "variant": "Large",
+      "ingredients": [
+        {
+          "material_id": "MAT01",
+          "material_name": "Bubuk matcha",
+          "amount": "5",
+          "unit": "gram"
+        },
+        {
+          "material_id": "MAT02",
+          "material_name": "Strawberry puree",
+          "amount": "39",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "155",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "130",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR19",
+          "material_name": "Cup Large",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal (Large = Reguler x 1,3) - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M18",
+      "menu_name": "Mango Matcha",
+      "variant": "Reguler",
+      "ingredients": [
+        {
+          "material_id": "MAT01",
+          "material_name": "Bubuk matcha",
+          "amount": "4",
+          "unit": "gram"
+        },
+        {
+          "material_id": "MAT03",
+          "material_name": "Mango puree",
+          "amount": "30",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "120",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "100",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR14",
+          "material_name": "Cup Reguler",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M18",
+      "menu_name": "Mango Matcha",
+      "variant": "Large",
+      "ingredients": [
+        {
+          "material_id": "MAT01",
+          "material_name": "Bubuk matcha",
+          "amount": "5",
+          "unit": "gram"
+        },
+        {
+          "material_id": "MAT03",
+          "material_name": "Mango puree",
+          "amount": "39",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "155",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "130",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR19",
+          "material_name": "Cup Large",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal (Large = Reguler x 1,3) - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M19",
+      "menu_name": "Pink Matcha",
+      "variant": "Reguler",
+      "ingredients": [
+        {
+          "material_id": "MAT01",
+          "material_name": "Bubuk matcha",
+          "amount": "4",
+          "unit": "gram"
+        },
+        {
+          "material_id": "MAT06",
+          "material_name": "Sirup strawberry",
+          "amount": "20",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "120",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "100",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR14",
+          "material_name": "Cup Reguler",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M19",
+      "menu_name": "Pink Matcha",
+      "variant": "Large",
+      "ingredients": [
+        {
+          "material_id": "MAT01",
+          "material_name": "Bubuk matcha",
+          "amount": "5",
+          "unit": "gram"
+        },
+        {
+          "material_id": "MAT06",
+          "material_name": "Sirup strawberry",
+          "amount": "26",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "155",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "130",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR19",
+          "material_name": "Cup Large",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal (Large = Reguler x 1,3) - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M20",
+      "menu_name": "Matcha Seasalt Cream",
+      "variant": "Reguler",
+      "ingredients": [
+        {
+          "material_id": "MAT01",
+          "material_name": "Bubuk matcha",
+          "amount": "4",
+          "unit": "gram"
+        },
+        {
+          "material_id": "MAT04",
+          "material_name": "Gula cair",
+          "amount": "10",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "120",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP06",
+          "material_name": "Whipped cream",
+          "amount": "30",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP08",
+          "material_name": "Sea salt",
+          "amount": "0.5",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "100",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR14",
+          "material_name": "Cup Reguler",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M20",
+      "menu_name": "Matcha Seasalt Cream",
+      "variant": "Large",
+      "ingredients": [
+        {
+          "material_id": "MAT01",
+          "material_name": "Bubuk matcha",
+          "amount": "5",
+          "unit": "gram"
+        },
+        {
+          "material_id": "MAT04",
+          "material_name": "Gula cair",
+          "amount": "13",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "155",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP06",
+          "material_name": "Whipped cream",
+          "amount": "39",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP08",
+          "material_name": "Sea salt",
+          "amount": "1",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "130",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR19",
+          "material_name": "Cup Large",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal (Large = Reguler x 1,3) - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M21",
+      "menu_name": "Roasted Milktea",
+      "variant": "Reguler",
+      "ingredients": [
+        {
+          "material_id": "TMB02",
+          "material_name": "Bahan teh (Roasted Milktea)",
+          "amount": "5",
+          "unit": "gram"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "100",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP05",
+          "material_name": "SKM carnation",
+          "amount": "20",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "100",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR14",
+          "material_name": "Cup Reguler",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M21",
+      "menu_name": "Roasted Milktea",
+      "variant": "Large",
+      "ingredients": [
+        {
+          "material_id": "TMB02",
+          "material_name": "Bahan teh (Roasted Milktea)",
+          "amount": "7",
+          "unit": "gram"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "130",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP05",
+          "material_name": "SKM carnation",
+          "amount": "26",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "130",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR19",
+          "material_name": "Cup Large",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal (Large = Reguler x 1,3) - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M22",
+      "menu_name": "Hojicha Tea",
+      "variant": "Reguler",
+      "ingredients": [
+        {
+          "material_id": "MAT05",
+          "material_name": "Hojicha",
+          "amount": "4",
+          "unit": "gram"
+        },
+        {
+          "material_id": "KOP02",
+          "material_name": "Air galon",
+          "amount": "200",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "100",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR14",
+          "material_name": "Cup Reguler",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M22",
+      "menu_name": "Hojicha Tea",
+      "variant": "Large",
+      "ingredients": [
+        {
+          "material_id": "MAT05",
+          "material_name": "Hojicha",
+          "amount": "5",
+          "unit": "gram"
+        },
+        {
+          "material_id": "KOP02",
+          "material_name": "Air galon",
+          "amount": "260",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "130",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR19",
+          "material_name": "Cup Large",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal (Large = Reguler x 1,3) - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M23",
+      "menu_name": "Red velvet",
+      "variant": "Reguler",
+      "ingredients": [
+        {
+          "material_id": "KOP12",
+          "material_name": "Bubuk red velvet",
+          "amount": "25",
+          "unit": "gram"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "150",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP20",
+          "material_name": "Red velvet crumbs",
+          "amount": "5",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "100",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR14",
+          "material_name": "Cup Reguler",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M23",
+      "menu_name": "Red velvet",
+      "variant": "Large",
+      "ingredients": [
+        {
+          "material_id": "KOP12",
+          "material_name": "Bubuk red velvet",
+          "amount": "33",
+          "unit": "gram"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "195",
+          "unit": "ml"
+        },
+        {
+          "material_id": "KOP20",
+          "material_name": "Red velvet crumbs",
+          "amount": "7",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "130",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR19",
+          "material_name": "Cup Large",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal (Large = Reguler x 1,3) - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M24",
+      "menu_name": "Chocolate",
+      "variant": "Reguler",
+      "ingredients": [
+        {
+          "material_id": "KOP13",
+          "material_name": "Bubuk coklat",
+          "amount": "25",
+          "unit": "gram"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "150",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "100",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR14",
+          "material_name": "Cup Reguler",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal - belum dikonfirmasi Hidji"
+    },
+    {
+      "menu_id": "M24",
+      "menu_name": "Chocolate",
+      "variant": "Large",
+      "ingredients": [
+        {
+          "material_id": "KOP13",
+          "material_name": "Bubuk coklat",
+          "amount": "33",
+          "unit": "gram"
+        },
+        {
+          "material_id": "KOP03",
+          "material_name": "Susu UHT",
+          "amount": "195",
+          "unit": "ml"
+        },
+        {
+          "material_id": "BAR12",
+          "material_name": "Es batu",
+          "amount": "130",
+          "unit": "gram"
+        },
+        {
+          "material_id": "BAR19",
+          "material_name": "Cup Large",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR15",
+          "material_name": "Tutup cup",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "material_id": "BAR16",
+          "material_name": "Sedotan",
+          "amount": "1",
+          "unit": "pcs"
+        }
+      ],
+      "status": "Estimasi awal (Large = Reguler x 1,3) - belum dikonfirmasi Hidji"
+    }
+  ],
+  "simulation_parameters": {
+    "Proporsi pesanan ukuran Large": {
+      "value": 0.3,
+      "status": "Terkonfirmasi (perkiraan kasar)"
+    },
+    "Sisa Cup Reguler saat pencatatan": {
+      "value": 142.0,
+      "status": "Terkonfirmasi"
+    },
+    "Sisa Cup Large saat pencatatan": {
+      "value": 95.0,
+      "status": "Terkonfirmasi"
+    },
+    "Stok minimum Cup Reguler": {
+      "value": 200.0,
+      "status": "Terkonfirmasi"
+    },
+    "Stok minimum Cup Large": {
+      "value": 100.0,
+      "status": "Terkonfirmasi"
+    },
+    "Add-on yang dipakai pelanggan": {
+      "value": "Oat milk, free lactose, es krim vanilla",
+      "status": "Terkonfirmasi"
+    },
+    "Persentase pesanan yang memakai add-on": {
+      "value": "(belum ada)",
+      "status": "Belum"
+    },
+    "Susu biasa dikurangi saat oat milk / free lactose dipilih": {
+      "value": "Ya",
+      "status": "Terkonfirmasi"
+    },
+    "Perisa Pink Matcha": {
+      "value": "Sirup strawberry",
+      "status": "Terkonfirmasi"
+    },
+    "Hojicha dan Sirup strawberry masuk daftar stok": {
+      "value": "Ya",
+      "status": "Terkonfirmasi"
+    }
+  }
+}
